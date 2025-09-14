@@ -1,0 +1,10 @@
+Warning: Permanently added '13.213.54.144' (ECDSA) to the list of known hosts.
+{
+  "status": "STOP_REQUESTED",
+  "lastStatusUpdatedTime": "2025-09-08T18:28:28.935Z"
+}
+new snapshot id: snap-01f943a1ee2d2e122
+keeping max 2 snapshots
+2025-09-08T14:51:10.198Z	snap-032b21e56cdd3e5d7
+2025-09-08T18:28:30.860Z	snap-01f943a1ee2d2e122
+config file updated
